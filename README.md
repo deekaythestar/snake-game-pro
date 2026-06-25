@@ -33,3 +33,18 @@ git clone https://github.com/deekaythestar/snake-game-pro.git
 cd snake-game-pro
 pip install -r requirements.txt
 python snake_pro.py
+
+
+## Download & Play
+**Windows**: [Download SnakeGamePro.exe](https://github.com/deekaythestar/snake-game-pro/releases/latest)
+
+No installation needed. Double-click to play.
+
+> **Note**: If Windows shows "Windows protected your PC", click **More info** → **Run anyway**. 
+> This is normal for unsigned indie games.
+
+---
+
+## For Developers
+
+Want to run from source or modify the code?
